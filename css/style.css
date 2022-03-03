@@ -1,0 +1,23 @@
+.add_btn {
+    width: 20%;
+}
+.success,
+.error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    text-align: center;
+}
+
+.success {
+    background-color: rgb(40, 14, 100);
+}
+
+.error {
+    background-color: rgb(209, 241, 28);
+}
+
+.delete {
+    text-decoration: none;
+    color: rgb(230, 245, 22);
+}
