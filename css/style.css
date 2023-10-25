@@ -14,10 +14,11 @@
 }
 
 .error {
-    background-color: rgb(255, 241, 28);
+    background-color: rgb(255, 0, 0);
 }
 
 .delete {
+    font-size: 1.2em;
     text-decoration: none;
-    color: rgb(230, 245, 22);
+    color: rgb(255, 0, 0);
 }
